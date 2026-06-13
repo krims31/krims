@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 💫 About Me:<br>🌍 Frontend-разработчик, создаю быстрые и красивые веб-интерфейсы  <br>⚡ Стек: HTML • CSS • JavaScript/TypeScript • React • Tailwind  <br>📫 Связаться: Telegram | @krims42 | Email<br>
+## 💫 About Me:<br>🌍 Frontend developer, I create fast and beautiful web interfaces  <br>⚡ Stack: HTML • CSS • JavaScript/TypeScript • React • Tailwind  <br>📫 Contact: Telegram | @krims42 | Email<br>
 
 
 ## 🌐 Socials:
